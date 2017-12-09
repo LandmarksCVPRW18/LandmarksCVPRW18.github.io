@@ -1,0 +1,12 @@
+# speaker section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Herve Jegou
+  i18n: Herve
+  img: /static/assets/img/landing/herve-jegou.jpg
+  desc: Herve Jegou is a Research Lead with Facebook AI Research.
+
+- name: Josef Sivic
+  i18n: Josef
+  img: /static/assets/img/landing/Josef-Sivic.jpg
+  desc: Josef Sivic is a senior researcher and principal investigator at Inria.
