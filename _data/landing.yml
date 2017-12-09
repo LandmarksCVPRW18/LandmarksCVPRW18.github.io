@@ -9,7 +9,7 @@
 - id: Schedule
   i18n: nav.Schedule
   name: Schedule
-  tpl: Schedule.html
+  tpl: schedule.html
   css: timeline
 
 - id: Speaker 
