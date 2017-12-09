@@ -3,7 +3,7 @@
 #
 # Images are expected to be located in `static/assets/img/`.
 - src: landing/Salt-Lake-City-day.jpg
-  title: first banner image
+  title: Salt Lake City Day
 
 - src: landing/salt-lake-city-night.jpg
-  title: second banner image
+  title: Salt Lake City Night
