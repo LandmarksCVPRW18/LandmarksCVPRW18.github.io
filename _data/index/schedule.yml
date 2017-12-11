@@ -10,19 +10,11 @@
   icon: fa-cog
 
 - name:
-    detail: Submission Deadline  
+    detail: Challenge Deadline
   desc:
-    detail: link to cmt 
+    detail: link
   date:
-    detail: Apr. 2018
-  icon: fa-cog
-
-- name:
-    detail: Final Decisions Announced  
-  desc:
-    detail: link to cmt 
-  date:
-    detail: Apr. 2018
+    detail: May 2018
   icon: fa-cog 
 
 - name:
