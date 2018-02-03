@@ -4,23 +4,23 @@
 - name:
     detail: Challenge Begins
   desc:
-    detail: Challenge will be held in Kaggle 
+    detail: Challenge is helding in Kaggle 
   date:
-    detail: Jan. 2018
+    detail: Feb. 2 2018
   icon: fa-cog
 
 - name:
-    detail: Challenge Deadline
+    detail: Challenge Deadline 
   desc:
-    detail: link
+    detail: Result will be released
   date:
-    detail: May 2018
+    detail: May 22 2018
   icon: fa-cog 
 
 - name:
     detail: Workshop
   desc:
-    detail: 
+    detail: Held with CVPR’18
   date:
     detail: Jun. 2018
   icon: fa-cog 

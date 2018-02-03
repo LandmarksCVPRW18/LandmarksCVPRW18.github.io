@@ -6,6 +6,12 @@
   tpl: about.html
   css:
 
+- id: Challenge
+  i18n: nav.challenge
+  name: challenge
+  tpl: challenge.html
+  css: challenge
+
 - id: Schedule
   i18n: nav.Schedule
   name: Schedule
