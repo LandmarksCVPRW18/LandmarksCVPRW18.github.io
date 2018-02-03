@@ -3,12 +3,12 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Recognition Challange
   i18n: Recognition
-  img: /static/assets/img/landing/Recognition.png
+  img: /static/assets/img/landing/recognition.png
   desc: Label famous (and not-so-famous) landmarks in image.
   url: https://www.kaggle.com/c/landmark-recognition-challenge
 
 - name: Retrieval Challange
   i18n: Retrieval
-  img: /static/assets/img/landing/Retrieval.png
+  img: /static/assets/img/landing/retrieval.png
   desc: Given an image, to find out all of the same landmarks in a dataset.
   url: https://www.kaggle.com/c/landmark-retrieval-challenge
