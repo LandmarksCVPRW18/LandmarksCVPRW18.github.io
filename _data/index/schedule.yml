@@ -4,7 +4,7 @@
 - name:
     detail: Challenge Begins
   desc:
-    detail: Challenge is helding in Kaggle 
+    detail: Challenge is held on Kaggle 
   date:
     detail: Feb. 2 2018
   icon: fa-cog
@@ -12,7 +12,7 @@
 - name:
     detail: Challenge Deadline 
   desc:
-    detail: Result will be released
+    detail: Results will be released
   date:
     detail: May 22 2018
   icon: fa-cog 
