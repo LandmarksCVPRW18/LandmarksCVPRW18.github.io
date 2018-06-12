@@ -4,7 +4,9 @@
 - name: Herve Jegou
   i18n: Herve
   img: /static/assets/img/landing/herve-jegou.jpg
-  desc: Research Lead with Facebook AI Research.
+  desc: Research Lead with Facebook AI Research
+  title: Learnable Representations for Estimating Visual Correspondence
+  abstract: In this talk, I will present some recent trends in the area of similarity search. I will first review the techniques that are routinely employed to index and search billions of image descriptors, such as local features or more global representations extracted from CNN architectures. Then I will present recent advances based on graph-descent algorithms, as well as emerging methods for indexing with neural networks.
 
 - name: Josef Sivic
   i18n: Josef
