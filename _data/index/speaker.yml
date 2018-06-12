@@ -4,9 +4,12 @@
 - name: Herve Jegou
   i18n: Herve
   img: /static/assets/img/landing/herve-jegou.jpg
-  desc: Herve Jegou is a Research Lead with Facebook AI Research.
+  desc: Research Lead with Facebook AI Research.
 
 - name: Josef Sivic
   i18n: Josef
   img: /static/assets/img/landing/Josef-Sivic.jpg
-  desc: Josef Sivic is a senior researcher at Inria and a principal investigator at Czech Technical University in Prague.
+  desc: Senior researcher at Inria and a principal investigator at Czech Technical University in Prague
+  title: Learnable Representations for Estimating Visual Correspondence
+  abstract: Finding visual correspondence is one of the fundamental image understanding problems. It is a challenging task due to strong appearance differences between the corresponding scene elements caused by, for example, changes in camera viewpoint and illumination, intra-class variation, or scenes changes over time.  In this talk, I will discuss our recently developed learnable representations for visual correspondence tasks with applications to category-level object alignment, observer localization in large-scale indoor environments with textureless areas and repetitive patterns, and place recognition across day/night illumination or changes of weather and seasons.
+

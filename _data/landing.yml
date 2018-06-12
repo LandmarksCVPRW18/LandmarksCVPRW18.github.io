@@ -18,6 +18,12 @@
   tpl: schedule.html
   css: timeline
 
+- id: Timetable
+  i18n: nav.Timetable
+  name: Timetable
+  tpl: timetable.html
+  css: timeline
+
 - id: Speaker 
   i18n: nav.speaker
   name: speakers

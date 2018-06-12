@@ -7,20 +7,20 @@
     detail: Challenge is held on Kaggle 
   date:
     detail: Feb. 2 2018
-  icon: fa-cog
+  icon: fa-check-circle
 
 - name:
     detail: Challenge Deadline 
   desc:
-    detail: Results will be released
+    detail: Results are released
   date:
-    detail: May 22 2018
-  icon: fa-cog 
+    detail: May 27 2018
+  icon: fa-check-circle 
 
 - name:
     detail: Workshop
   desc:
     detail: Held with CVPR’18
   date:
-    detail: Jun. 2018
-  icon: fa-cog 
+      detail: Jun. 18 2018, 13:30 - 17:30, MDT
+  icon: fa-calendar
