@@ -11,7 +11,8 @@
 - name:
     detail: Invited Talk 1
   desc:
-    detail: Josef Sivic (INRIA / Czech Technical University), Learnable Representations for Estimating Visual Correspondence
+    detail: Josef Sivic (INRIA / CTU)
+    title: Learnable Representations for Estimating Visual Correspondence
   date:
     detail: 13:50 - 14:30, MDT
   icon: fa-microphone 
@@ -51,7 +52,8 @@
 - name:
     detail: Invited Talk 2
   desc:
-    detail: Herve Jegou (FAIR), Trends in Large-Scale Similarity Search
+    detail: Herve Jegou (FAIR)
+    title: Trends in Large-Scale Similarity Search
   date:
     detail: 16:40 - 17:20, MDT
   icon: fa-microphone 
