@@ -3,7 +3,7 @@
 - name:
     detail: Welcome Remark
   desc:
-    detail:
+    detail: Andre Araujo
   date:
     detail: 13:30 - 13:50, MDT
   icon: fa-bullhorn 
@@ -11,7 +11,7 @@
 - name:
     detail: Invited Talk 1
   desc:
-    detail: Josef Sivic (INRIA / CTU)
+    detail: Josef Sivic (INRIA / CTU) (Hosted by Ondra Chum)
     title: Learnable Representations for Estimating Visual Correspondence
   date:
     detail: 13:50 - 14:30, MDT
@@ -20,15 +20,15 @@
 - name:
     detail: Challenge Overview
   desc:
-    detail:
+    detail: Andre Araujo and Tobias Weyand
   date:
     detail: 14:30 - 14:50, MDT
   icon: fa-institution 
 
 - name:
-    detail: Recognition Challenge Winner Presentations	
+    detail: Recognition Challenge Winner Presentations 	
   desc:
-    detail: Sirius, and VRG Prage
+    detail: Sirius, VRG Prage and Kohei (Hosted by Torsten Sattler)
   date:
     detail: 14:50 - 15:30, MDT
   icon: fa-comments 
@@ -42,9 +42,9 @@
   icon: fa-coffee 
 
 - name:
-    detail: Retrieval Challenge Winner Presentations	
+    detail: Retrieval Challenge Winner Presentations		
   desc:
-    detail: CVSSP & Visual Atoms, Layer 6 AI, and SevenSpace
+    detail: CVSSP & Visual Atoms, Layer 6 AI, and SevenSpace (Hosted by Jack Sim)
   date:
     detail: 16:00 - 16:40, MDT
   icon: fa-comments
@@ -52,7 +52,7 @@
 - name:
     detail: Invited Talk 2
   desc:
-    detail: Herve Jegou (FAIR)
+    detail: Herve Jegou (FAIR) (Hosted by Ondra Chum)
     title: Trends in Large-Scale Similarity Search
   date:
     detail: 16:40 - 17:20, MDT
@@ -61,7 +61,7 @@
 - name:
     detail: Close Remark
   desc:
-    detail:
+    detail: Tobias Weyand
   date:
     detail: 17:20 - 17:30, MDT
   icon: fa-signing 
