@@ -66,4 +66,8 @@
     detail: 17:20 - 17:30, MDT
   icon: fa-signing 
 
-
+- name:
+    detail: Challenge Participant Slides 
+  desc:
+    link: https://drive.google.com/open?id=12Zb0NZL3Ys6SPLiAvCroW5w3gZIYCB2X
+  icon: fa-book 

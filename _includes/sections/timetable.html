@@ -16,10 +16,16 @@
                     </div>
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
                         <h2><span data-i18n="timetable.{{ timetable.name.i18n }}">{{ timetable.name.detail }}</span></h2>
+                        {% if timetable.desc.detail %}
                         <p><span data-i18n="timetable.{{ timetable.desc.i18n }}">{{ timetable.desc.detail }} </span> <br />
+                        {% endif %}
+                        {% if timetable.desc.title %}
                         <span data-i18n="timetable.{{ timetable.desc.i18n }}">{{ timetable.desc.title }} </span></p>
-                        <span class="vertical-date"><span data-i18n="timetable.{{ timetable.date.i18n }}"> {{ timetable.date.detail }} </span>
-                        <br/> <small><span data-i18n="timetable.{{ timetable.job.i18n }}">{{ timetable.job.detail }}</span></small> </span>
+                        {% endif %}
+                        {% if timetable.desc.link %}
+                          <span data-i18n="timetable.{{ timetable.desc.i18n }}" class="navy"><a href="{{timetable.desc.link}}" target="_blank">Slides</a></span>
+                        {% endif %}
+                        <span class="vertical-date"><span data-i18n="timetable.{{ timetable.date.i18n }}" style="color:black"> {{timetable.date.detail}} </span>
                     </div>
                 </div>
             {% endfor %}
