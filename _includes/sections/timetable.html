@@ -22,9 +22,35 @@
                         {% if timetable.desc.title %}
                         <span data-i18n="timetable.{{ timetable.desc.i18n }}">{{ timetable.desc.title }} </span></p>
                         {% endif %}
-                        {% if timetable.desc.link %}
-                          <span data-i18n="timetable.{{ timetable.desc.i18n }}" class="navy"><a href="{{timetable.desc.link}}" target="_blank">Link to Slides</a></span>
+                        {% if timetable.desc.group1 %}
+                            {% if timetable.desc.link1 %}
+                                 <span data-i18n="timetable.{{ timetable.desc.i18n }}" class="navy"><a href="{{timetable.desc.link1}}" target="_blank"> {{ timetable.desc.group1 }} </a></span>
+                            {% else %}
+                                 <span data-i18n="timetable.{{ timetable.desc.i18n }}">{{timetable.desc.group1}}</span>
+                            {% endif %}
+                            {% if timetable.desc.group2 %}
+                                {% if timetable.desc.link2 %}
+                                    <span data-i18n="timetable.{{ timetable.desc.i18n }}" class="navy"><a href="{{timetable.desc.link2}}" target="_blank">, {{ timetable.desc.group2 }} </a></span>
+                                {% else %}
+                                    <span data-i18n="timetable.{{ timetable.desc.i18n }}">, {{timetable.desc.group2}} </span>
+                                {% endif %}
+                            {% endif %}
+                            {% if timetable.desc.group3 %}
+                                {% if timetable.desc.link3 %}
+                                    <span data-i18n="timetable.{{ timetable.desc.i18n }}" class="navy"><a href="{{timetable.desc.link3}}" target="_blank">, {{ timetable.desc.group3 }} </a></span>
+                                {% else %}
+                                    <span data-i18n="timetable.{{ timetable.desc.i18n }}">, {{timetable.desc.group3}} </span>
+                                {% endif %}
+                            {% endif %}
                         {% endif %}
+                        {% if timetable.desc.host %}
+                        <span data-i18n="timetable.{{ timetable.desc.i18n }}">(Hosted by {{timetable.desc.host}})</span>
+                        {% endif %}
+                        {% if timetable.desc.link %}
+                        <span data-i18n="timetable.{{ timetable.desc.i18n }}" class="navy"><a href="{{timetable.desc.link}}" target="_blank">Link to Slides</a></span></p>
+                        {% endif %}
+
+
                         <span class="vertical-date"><span data-i18n="timetable.{{ timetable.date.i18n }}" style="color:black"> {{timetable.date.detail}} </span>
                     </div>
                 </div>

@@ -4,9 +4,19 @@
     detail: Welcome Remark
   desc:
     detail: Andre Araujo
+    link: https://drive.google.com/open?id=1i1ofuAR0fGmQKjt1zagOU_gpu6NzKIrS
   date:
-    detail: 13:30 - 13:50, MDT
+    detail: 13:30 - 13:40, MDT
   icon: fa-bullhorn 
+
+- name:
+    detail: Dataset Overview
+  desc:
+    detail: Tobias Weyand
+    link: https://drive.google.com/open?id=1cz4MdBEhvb4_WaV_ckUT8OQUbLF6Z5Rj
+  date:
+    detail: 13:40 - 13:50, MDT
+  icon: fa-database 
 
 - name:
     detail: Invited Talk 1
@@ -21,14 +31,28 @@
     detail: Challenge Overview
   desc:
     detail: Andre Araujo and Tobias Weyand
+    link: https://drive.google.com/open?id=1EHxl49EHjXx2kew253AwDtx6SD7LYPxw
   date:
     detail: 14:30 - 14:50, MDT
   icon: fa-institution 
 
+  #- name:
+  #    detail: Recognition Challenge Winner Presentations 	
+  #  desc:
+  #    detail: Sirius, VRG Prage and Kohei (Hosted by Torsten Sattler)
+  #  date:
+  #    detail: 14:50 - 15:30, MDT
+  #  icon: fa-comments 
 - name:
     detail: Recognition Challenge Winner Presentations 	
   desc:
-    detail: Sirius, VRG Prage and Kohei (Hosted by Torsten Sattler)
+    group1: Sirius
+    link1: https://drive.google.com/open?id=1z4v0w0L3AkiFMCs0M_SFDYuTFq52cuSD 
+    group2: VRG Prage
+    link2: https://drive.google.com/open?id=1n0yn1cO8JAs1X6yJVyyt_uU4vVbCPqbV
+    group3: Kohei
+    link3: https://drive.google.com/open?id=1K0kwU4yoKLkJro4FUIeXvY1JW8wHFPth
+    host: Torsten Sattler
   date:
     detail: 14:50 - 15:30, MDT
   icon: fa-comments 
@@ -41,13 +65,25 @@
     detail: 15:30 - 16:00, MDT
   icon: fa-coffee 
 
+  #- name:
+  #    detail: Retrieval Challenge Winner Presentations		
+  #  desc:
+  #    detail: CVSSP & Visual Atoms, Layer 6 AI, and SevenSpace (Hosted by Jack Sim)
+  #  date:
+  #    detail: 16:00 - 16:40, MDT
+  #  icon: fa-comments
+
 - name:
-    detail: Retrieval Challenge Winner Presentations		
+    detail: Retrieval Challenge Winner Presentations 	
   desc:
-    detail: CVSSP & Visual Atoms, Layer 6 AI, and SevenSpace (Hosted by Jack Sim)
+    group1: CVSSP & Visual Atoms
+    group2: Layer 6 AI
+    link2: https://drive.google.com/open?id=1hp61AIatlXznB6wqpsfTmv_5DMKcX3-o
+    group3: SevenSpace
+    host: Jack Sim
   date:
     detail: 16:00 - 16:40, MDT
-  icon: fa-comments
+  icon: fa-comments 
 
 - name:
     detail: Invited Talk 2
@@ -62,6 +98,7 @@
     detail: Close Remark
   desc:
     detail: Tobias Weyand
+    link: https://drive.google.com/open?id=1Cmn-pNMXYcMBY7FVPBLls1VqyF6P2l5k
   date:
     detail: 17:20 - 17:30, MDT
   icon: fa-signing 
